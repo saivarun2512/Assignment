@@ -7,12 +7,9 @@ describe('Test environment Health-check', () => {
      chai.expect(chai).to.be.an('object');
   });
 });
-<<<<<<< HEAD
 
 
 
 //added another line here
 // new line to be added
 // another added
-=======
->>>>>>> parent of af02bbf (added changes)
