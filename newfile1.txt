@@ -1,2 +1,2 @@
 new file
-printf("hi")
+printf("hi") # how we greet in my undergrad
