@@ -1,1 +1,2 @@
 new file
+printf("hi") # how we greet in my undergrad
