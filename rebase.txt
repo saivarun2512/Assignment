@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+merge2
+merge1
+
+>>>>>>> rebase
 r4
 r3
 r1
